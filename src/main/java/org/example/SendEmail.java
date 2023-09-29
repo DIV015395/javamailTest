@@ -20,7 +20,7 @@ public class SendEmail {
   String recipientEmail = "sharmaboymanjeet12@gmail.com";
 
   // Set the sender password
-  String senderPassword = "qazplm@1M";
+  String senderPassword = "sfcb cxkn svsn qfxh";
 
   Properties props = new Properties();
   props.put("mail.smtp.starttls.enable", "true");
