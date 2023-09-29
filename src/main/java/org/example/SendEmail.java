@@ -46,7 +46,7 @@ public class SendEmail {
   transport.close();
   System.out.println("Email sent successfully!");
 
-    }
+ }
 
 
 }
